@@ -6,12 +6,392 @@ mainset:
     probability: 1
   - name: Andorhal
     probability: 1
-  - name: Aru-Talis
-    probability: 1
   - name: Astranaar
     probability: 1
+  - name: Auchindoun
+    probability: 1
+  - name: Booty Bay
+    probability: 1
+  - name: Boralus
+    probability: 1
+  - name: Dalaran
+    probability: 1
+  - name: Darkmaul Citadel
+    probability: 1
+  - name: Darnassus
+    probability: 1
+  - name: Dire Maul
+    probability: 1
+  - name: Dolanaar
+    probability: 1
+  - name: Dun Modr
+    probability: 1
+  - name: Elodor
+    probability: 1
+  - name: Eredath
+    probability: 1
+  - name: Exodar
+    probability: 1
+  - name: Frosthold
+    probability: 1
+  - name: Gadgetzan
+    probability: 1
+  - name: Galhara
+    probability: 1
+  - name: Gilneas City
+    probability: 1
+  - name: Gnomeregan
+    probability: 1
+  - name: Goldshire
+    probability: 1
+  - name: Goria
+    probability: 1
+  - name: Grim Batol
+    probability: 1
+  - name: Gundrak
+    probability: 1
+  - name: Highmaul
+    probability: 1
+  - name: Ironforge
+    probability: 1
+  - name: Karabor
+    probability: 1
+  - name: Kaskala
+    probability: 1
+  - name: Ruins of Lordaeron
+    probability: 1
+  - name: Mechagon City
+    probability: 1
+  - name: New Hearthglen
+    probability: 1
+  - name: Stromgarde
+    probability: 1
+  - name: Orgrimmar
+    probability: 1
+  - name: Shadowforge City
+    probability: 1
+  - name: Silvermoon City
+    probability: 1
+  - name: Skettis
+    probability: 1
+  - name: Skyreach
+    probability: 1
+  - name: Stormwind City
+    probability: 1
+  - name: Stratholme
+    probability: 1
+  - name: Suramar City
+    probability: 1
+  - name: Telmor
+    probability: 1
+  - name: Theramore
+    probability: 1
+  - name: Thunder Bluff
+    probability: 1
+  - name: Thunder Totem
+    probability: 1
+  - name: Tyr's Hand
+    probability: 1
+  - name: Undercity
+    probability: 1
+  - name: Valdrakken
+    probability: 1
+  - name: Zeth'Gol
+    probability: 1
+  - name: Zul'Farrak
+    probability: 1
+  - name: Zul'Mashar
+    probability: 1
+  - name: Akstad
+    probability: 1
+  - name: Ambermill
+    probability: 1
+  - name: Arbor Glen
+    probability: 1
+  - name: Area 52
+    probability: 1
+  - name: Blackhoof Village
+    probability: 1
+  - name: Bloodfin Village
+    probability: 1
+  - name: Bloodhoof Village
+    probability: 1
+  - name: Broken Horn Village
+    probability: 1
+  - name: Broken Spear Village
+    probability: 1
+  - name: Brunnhildar Village
+    probability: 1
+  - name: Camp Mojache
+    probability: 1
+  - name: Camp Tunka'lo
+    probability: 1
+  - name: Cherryville
+    probability: 1
+  - name: Cliffwalker Post
+    probability: 1
+  - name: Daggerfen Village
+    probability: 1
+  - name: Darkshire
+    probability: 1
+  - name: Darkspear Village
+    probability: 1
+  - name: Dawnstar Village
+    probability: 1
+  - name: Deadwood Village
+    probability: 1
+  - name: Dredhollow
+    probability: 1
+  - name: Emberstone Village
+    probability: 1
+  - name: Everlook
+    probability: 1
+  - name: Fallsong Village
+    probability: 1
+  - name: Felpaw Village
+    probability: 1
+  - name: Feralfen Village
+    probability: 1
+  - name: Freewind Post
+    probability: 1
+  - name: Fuselight
+    probability: 1
+  - name: Garadar
+    probability: 1
+  - name: Grimtotem Post
+    probability: 1
+  - name: Grom'gar
+    probability: 1
+  - name: Gul'rok
+    probability: 1
+  - name: Gul'var
+    probability: 1
+  - name: Halaa
+    probability: 1
+  - name: Honeydew Village
+    probability: 1
+  - name: Icemist Village
+    probability: 1
+  - name: Indu'le Village
+    probability: 1
+  - name: Lok-rath
+    probability: 1
+  - name: Moonbrook
+    probability: 1
+  - name: Nighthaven
+    probability: 1
+  - name: Pyrewood Village
+    probability: 1
+  - name: Raven Hill
+    probability: 1
+  - name: Riverbend
+    probability: 1
+  - name: Seabreeze Village
+    probability: 1
+  - name: Sen'jin Village
+    probability: 1
+  - name: Shadowprey Village
+    probability: 1
+  - name: Silverbrook
+    probability: 1
+  - name: Skyhorn
+    probability: 1
+  - name: Sporeggar
+    probability: 1
+  - name: Starbreeze Village
+    probability: 1
+  - name: Stonehearth
+    probability: 1
+  - name: Stonetalon Peak
+    probability: 1
+  - name: Stormglen Village
+    probability: 1
+  - name: Sun Rock Retreat
+    probability: 1
+  - name: Suncrown Village
+    probability: 1
+  - name: Sunspring Post
+    probability: 1
+  - name: Swamprat Post
+    probability: 1
+  - name: Taunka'le Village
+    probability: 1
+  - name: Teldrassil
+    probability: 1
+  - name: Tempest's Reach
+    probability: 1
+  - name: Thistlefur Village
+    probability: 1
+  - name: Windrunner Village
+    probability: 1
+  - name: Windyreed Village
+    probability: 1
+  - name: Shattrath City
+    probability: 1
+  - name: Thrallmar
+    probability: 1
+  - name: Honor Hold
+    probability: 1
+  - name: Northshire
+    probability: 1
+  - name: New Tinkertown
+    probability: 1
+  - name: Sunstrider Isle
+    probability: 1
+  - name: Fairbreeze Village
+    probability: 1
+  - name: Deathknell
+    probability: 1
+  - name: Brill
+    probability: 1
+  - name: The Bulwark
+    probability: 1
+  - name: Duskhaven
+    probability: 1
+  - name: Stormglen
+    probability: 1
+  - name: Sentinel Hill
+    probability: 1
+  - name: Tranquillien
+    probability: 1
+  - name: Thelsamar
+    probability: 1
+  - name: Farstrider Lodge
+    probability: 1
+  - name: The Sepulcher
+    probability: 1
+  - name: Lakeshire
+    probability: 1
+  - name: Shalewind Canyon
+    probability: 1
+  - name: Tarren Mill
+    probability: 1
+  - name: Menethil Harbor
+    probability: 1
+  - name: Hammerfall
+    probability: 1
+  - name: Refuge Pointe
+    probability: 1
+  - name: Fort Livingston
+    probability: 1
+  - name: Grom'gol Base Camp
+    probability: 1
+  - name: Chillwind Camp
+    probability: 1
+  - name: Kargath
+    probability: 1
+  - name: Stonard
+    probability: 1
+  - name: The Harborage
+    probability: 1
+  - name: Nethergarde Keep
+    probability: 1
+  - name: Dreadmaul Hold
+    probability: 1
+  - name: Baradin Base Camp
+    probability: 1
+  - name: Hellscream's Grasp
+    probability: 1
+  - name: Dragonmaw Port
+    probability: 1
+  - name: Kirthaven
+    probability: 1
+  - name: Razor Hill
+    probability: 1
+  - name: Lor'danel
+    probability: 1
+  - name: Ratchet
+    probability: 1
+  - name: The Crossroads
+    probability: 1
+  - name: Desolation Hold
+    probability: 1
+  - name: Fort Triumph
+    probability: 1
+  - name: Northwatch Hold
+    probability: 1
+  - name: Mudsprocket
+    probability: 1
+  - name: Cenarion Hold
+    probability: 1
+  - name: Falcon Watch
+    probability: 1
+  - name: Zabra'jin
+    probability: 1
+  - name: Telredor
+    probability: 1
+  - name: Telaar
+    probability: 1
+  - name: Shadowmoon Village
+    probability: 1
+  - name: Tempest Keep
+    probability: 1
+  - name: Black Temple
+    probability: 1
+  - name: Valiance Keep
+    probability: 1
+  - name: Warsong Hold
+    probability: 1
+  - name: New Agamand
+    probability: 1
+  - name: Westguard Keep
+    probability: 1
+  - name: Vengeance Landing
+    probability: 1
+  - name: Camp Winterhoof
+    probability: 1
+  - name: Fort Wildervar
+    probability: 1
+  - name: Wintergarde Keep
+    probability: 1
+  - name: Stars' Rest
+    probability: 1
+  - name: Wyrmrest Temple
+    probability: 1
+  - name: Agmar's Hammer
+    probability: 1
+  - name: Venomspite
+    probability: 1
+  - name: Conquest Hold
+    probability: 1
+  - name: 'Naxxramas '
+    probability: 1
+  - name: Icecrown Citadel
+    probability: 1
+  - name: K3
+    probability: 1
+  - name: Frosthold
+    probability: 1
+  - name: Frostwall
+    probability: 1
+  - name: Bladespire Citadel
+    probability: 1
+  - name: Fort Wrynn
+    probability: 1
+  - name: Vol'jin's Pride
+    probability: 1
+  - name: Axefall
+    probability: 1
+  - name: Southport
+    probability: 1
+  - name: Lunarfall
+    probability: 1
+  - name: Lion's Watch
+    probability: 1
+  - name: Vol'mar
+    probability: 1
+  - name: Stormshield
+    probability: 1
+  - name: Warspear
+    probability: 1
+  - name: Auberdine
+    probability: 1
+  - name: Kharanos
+    probability: 1
+  - name: Blood Watch
+    probability: 1
 name: wowtowncitynames
-source: null
+source: Wowpedia
 subsets:
 - name: newset-0
   parts:
