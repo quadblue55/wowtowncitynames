@@ -1,0 +1,18 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Aerie Peak
+    probability: 1
+  - name: Andorhal
+    probability: 1
+  - name: Aru-Talis
+    probability: 1
+  - name: Astranaar
+    probability: 1
+name: wowtowncitynames
+source: null
+subsets:
+- name: newset-0
+  parts:
+  - names: []
